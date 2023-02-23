@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="multiplicative.components.ArrayIncrementTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-01-15T10:18:18" hostname="Henrique-Cassus.fritz.box" time="0.024">
+  <properties/>
+  <testcase name="[1] [0], [1]" classname="multiplicative.components.ArrayIncrementTest" time="0.014"/>
+  <testcase name="[2] [8], [9]" classname="multiplicative.components.ArrayIncrementTest" time="0.0"/>
+  <testcase name="[3] [9], [1, 0]" classname="multiplicative.components.ArrayIncrementTest" time="0.0"/>
+  <testcase name="[4] [1, 8], [1, 9]" classname="multiplicative.components.ArrayIncrementTest" time="0.0"/>
+  <testcase name="[5] [1, 9], [2, 2]" classname="multiplicative.components.ArrayIncrementTest" time="0.0"/>
+  <testcase name="[6] [2, 8], [2, 9]" classname="multiplicative.components.ArrayIncrementTest" time="0.0"/>
+  <testcase name="[7] [9, 8], [9, 9]" classname="multiplicative.components.ArrayIncrementTest" time="0.0"/>
+  <testcase name="[8] [9, 9], [2, 2, 2]" classname="multiplicative.components.ArrayIncrementTest" time="0.0"/>
+  <testcase name="[9] [2, 8, 9], [2, 9, 2]" classname="multiplicative.components.ArrayIncrementTest" time="0.001"/>
+  <testcase name="[10] [9, 9, 9], [2, 2, 2, 2]" classname="multiplicative.components.ArrayIncrementTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

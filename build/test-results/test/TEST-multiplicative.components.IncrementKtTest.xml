@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="multiplicative.components.IncrementKtTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2023-01-15T10:18:18" hostname="Henrique-Cassus.fritz.box" time="0.014">
+  <properties/>
+  <testcase name="shouldIncrementNumbersWithMultipleTwos()" classname="multiplicative.components.IncrementKtTest" time="0.001"/>
+  <testcase name="shouldReplaceInvalidDigitCombination()" classname="multiplicative.components.IncrementKtTest" time="0.001"/>
+  <testcase name="shouldIncrementNumbersWithTwoAndThree()" classname="multiplicative.components.IncrementKtTest" time="0.001"/>
+  <testcase name="shouldSpreadDigit()" classname="multiplicative.components.IncrementKtTest" time="0.0"/>
+  <testcase name="shouldIncrementNumbersWithMultipleThrees()" classname="multiplicative.components.IncrementKtTest" time="0.0"/>
+  <testcase name="shouldIncrementNumbersWithZeroes()" classname="multiplicative.components.IncrementKtTest" time="0.0"/>
+  <testcase name="shouldReplaceDoubleDigits()" classname="multiplicative.components.IncrementKtTest" time="0.0"/>
+  <testcase name="shouldIncrementNumbersWithFourAndSix()" classname="multiplicative.components.IncrementKtTest" time="0.0"/>
+  <testcase name="shouldIncrementNumbersHigherThanTwentyNineWithPairsAndFive()" classname="multiplicative.components.IncrementKtTest" time="0.001"/>
+  <testcase name="shouldIncrementNumbersWithMultipleFours()" classname="multiplicative.components.IncrementKtTest" time="0.001"/>
+  <testcase name="shouldIncrementNumbersWithMultipleSixes()" classname="multiplicative.components.IncrementKtTest" time="0.0"/>
+  <testcase name="shouldIncrementUnsortedNumbers()" classname="multiplicative.components.IncrementKtTest" time="0.0"/>
+  <testcase name="shouldResolveCharIdx()" classname="multiplicative.components.IncrementKtTest" time="0.0"/>
+  <testcase name="shouldIncrementUnsorted()" classname="multiplicative.components.IncrementKtTest" time="0.0"/>
+  <testcase name="shouldIncrementPairAndFive()" classname="multiplicative.components.IncrementKtTest" time="0.0"/>
+  <testcase name="shouldNotSmartIncrementNumbersLowerThanTwentyFiveWithPairsAndFive()" classname="multiplicative.components.IncrementKtTest" time="0.001"/>
+  <testcase name="shouldNotSmartIncrementNumbersLowerThatTwentyWithOnes()" classname="multiplicative.components.IncrementKtTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
